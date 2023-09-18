@@ -12,4 +12,4 @@ Step 4:-Goto Browser and type "localhost:3000" the the website is succesfully ho
 
 if not running or doing work properly then Create your environment variable in AppWrite Cloud Database and create Database and collection.
 
-<img src="public\img.png">
+<img src="public/img.png">
