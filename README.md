@@ -26,7 +26,7 @@ This will run the project on your machine.
 
 If the project is not running correctly or encountering issues, follow these additional steps:
 
-- 1. Create environment variables in your AppWrite Cloud Database as needed.
+- 1. Create environment variables in your AppWrite Cloud Database as needed. (Compulsory as the data storing and retrieving from appwrite )
 - 2. Create the required database and collection in AppWrite Cloud Database.
 
 Make sure that you configure the environment variables correctly to ensure the project functions as expected.
