@@ -1,15 +1,34 @@
-This is a kanban project. Inspired from trello website.
+This is a Kanban project inspired by the Trello website. It allows you to manage tasks using Kanban boards, complete with drag-and-drop functionality. You can also add images to your project. To run it on your machine, 
 
-This can all kanban works and we can drag & drop tings like it done. We also can add image to the project.
+follow these steps:
 
-Now to run it on your machine:- 
-Step 1:-Download it zip or clone it on your local machine
-Step 2:-Run command Yarn i/npm i after opening the project folder in your local code environment
-Step 3:-Run command npm run dev/yarn dev and the project will on your machine
-Step 4:-Goto Browser and type "localhost:3000" the the website is succesfully hosted.
+- **Step 1:** Download the project as a zip file or clone it to your local machine.
 
+- **Step 2:** After opening the project folder in your local code environment, run the following command to install the necessary dependencies using either Yarn or npm:
 
+```bash
+yarn install
+# OR
+npm install
+```
 
-if not running or doing work properly then Create your environment variable in AppWrite Cloud Database and create Database and collection.
+- **Step 3:** Start the project with the following command:
 
-<img src="public\img.png">
+```bash
+npm run dev
+# OR
+yarn dev
+```
+
+This will run the project on your machine.
+
+- **Step 4:** Open your web browser and type "localhost:3000" in the address bar to access the website.
+
+If the project is not running correctly or encountering issues, follow these additional steps:
+
+- 1. Create environment variables in your AppWrite Cloud Database as needed.
+- 2. Create the required database and collection in AppWrite Cloud Database.
+
+Make sure that you configure the environment variables correctly to ensure the project functions as expected.
+
+<img src="public/img.png">
